@@ -1,0 +1,2334 @@
+[
+  {
+    "language_iso": "abq",
+    "treebanks": [
+      "abq_atb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Northwest Caucasian",
+    "genus": "Northwest Caucasian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ab",
+    "treebanks": [
+      "ab_abnc"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "af",
+    "treebanks": [
+      "af_afribooms"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "akk",
+    "treebanks": [
+      "akk_pisandub",
+      "akk_riao"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "aqz",
+    "treebanks": [
+      "aqz_tudet"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "sq",
+    "treebanks": [
+      "sq_staf",
+      "sq_tsa"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "4 cases",
+    "family": "Indo-European",
+    "genus": "Albanian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "gsw",
+    "treebanks": [
+      "gsw_divital",
+      "gsw_uzh"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "am",
+    "treebanks": [
+      "am_att"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Afro-Asiatic",
+    "genus": "Semitic",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "grc",
+    "treebanks": [
+      "grc_ptnk",
+      "grc_perseus",
+      "grc_proiel"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "apu",
+    "treebanks": [
+      "apu_ufpa"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "Exclusively borderline case-marking",
+    "family": "Arawakan",
+    "genus": "Purus",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "hbo",
+    "treebanks": [
+      "hbo_ptnk"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ar",
+    "treebanks": [
+      "ar_pud",
+      "ar_padt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "hy",
+    "treebanks": [
+      "hy_bsut",
+      "hy_armtdp"
+    ],
+    "word_order": "No dominant order",
+    "case_category": "case_medium",
+    "case_wals_value": "5 cases",
+    "family": "Indo-European",
+    "genus": "Armenian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "aii",
+    "treebanks": [
+      "aii_as"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Afro-Asiatic",
+    "genus": "Semitic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "az",
+    "treebanks": [
+      "az_tuecl"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "bm",
+    "treebanks": [
+      "bm_crb"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Mande",
+    "genus": "Western Mande",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "bar",
+    "treebanks": [
+      "bar_maibaam"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "bej",
+    "treebanks": [
+      "bej_autogramm"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Afro-Asiatic",
+    "genus": "Beja",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "eu",
+    "treebanks": [
+      "eu_bdt"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_rich",
+    "case_wals_value": "10 or more cases",
+    "family": "Basque",
+    "genus": "Basque",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "bho",
+    "treebanks": [
+      "bho_bhtb"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Indic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sab",
+    "treebanks": [
+      "sab_chibergis"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Chibchan",
+    "genus": "Guaymiic",
+    "macroarea": "North America"
+  },
+  {
+    "language_iso": "br",
+    "treebanks": [
+      "br_keb"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Celtic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "be",
+    "treebanks": [
+      "be_hse"
+    ],
+    "word_order": "No dominant order",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "bor",
+    "treebanks": [
+      "bor_bdt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Bororoan",
+    "genus": "Bororoan",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "bxr",
+    "treebanks": [
+      "bxr_bdt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "bg",
+    "treebanks": [
+      "bg_btb"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "yue",
+    "treebanks": [
+      "yue_hk"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Sino-Tibetan",
+    "genus": "Chinese",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "cpg",
+    "treebanks": [
+      "cpg_amgic",
+      "cpg_tuecl"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ceb",
+    "treebanks": [
+      "ceb_gja"
+    ],
+    "word_order": "VSO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Austronesian",
+    "genus": "Greater Central Philippine",
+    "macroarea": "Papunesia"
+  },
+  {
+    "language_iso": "zh",
+    "treebanks": [
+      "zh_beginner",
+      "zh_cfl",
+      "zh_gsd",
+      "zh_gsdsimp",
+      "zh_hk",
+      "zh_patentchar",
+      "zh_pud"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ckb",
+    "treebanks": [
+      "ckb_mukri"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Iranian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ca",
+    "treebanks": [
+      "ca_ancora"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ctn",
+    "treebanks": [
+      "ctn_ctntb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ckt",
+    "treebanks": [
+      "ckt_hse"
+    ],
+    "word_order": "No dominant order",
+    "case_category": "case_rich",
+    "case_wals_value": "10 or more cases",
+    "family": "Chukotko-Kamchatkan",
+    "genus": "Northern Chukotko-Kamchatkan",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "lzh",
+    "treebanks": [
+      "lzh_tuecl",
+      "lzh_kyoto"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "xcl",
+    "treebanks": [
+      "xcl_caval"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "cop",
+    "treebanks": [
+      "cop_bohairic",
+      "cop_scriptorium"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Afro-Asiatic",
+    "genus": "Egyptian-Coptic",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "hr",
+    "treebanks": [
+      "hr_set"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "cs",
+    "treebanks": [
+      "cs_cltt",
+      "cs_cac",
+      "cs_fictree",
+      "cs_poetry",
+      "cs_pud",
+      "cs_pdtc"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "da",
+    "treebanks": [
+      "da_ddt"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "nl",
+    "treebanks": [
+      "nl_alpino",
+      "nl_lassysmall"
+    ],
+    "word_order": "No dominant order",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "egy",
+    "treebanks": [
+      "egy_ujaen"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "en",
+    "treebanks": [
+      "en_atis",
+      "en_ctetex",
+      "en_eslspok",
+      "en_childes",
+      "en_ewt",
+      "en_gentle",
+      "en_gumreddit",
+      "en_gum",
+      "en_lines",
+      "en_littleprince",
+      "en_partut",
+      "en_pud"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "myv",
+    "treebanks": [
+      "myv_jr"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_rich",
+    "case_wals_value": "10 or more cases",
+    "family": "Uralic",
+    "genus": "Mordvin",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "eo",
+    "treebanks": [
+      "eo_cairo",
+      "eo_prago"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "et",
+    "treebanks": [
+      "et_ewt",
+      "et_edt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "fo",
+    "treebanks": [
+      "fo_farpahc",
+      "fo_oft"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "fi",
+    "treebanks": [
+      "fi_ood",
+      "fi_pud",
+      "fi_ftb",
+      "fi_tdt"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_rich",
+    "case_wals_value": "10 or more cases",
+    "family": "Uralic",
+    "genus": "Finnic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "fr",
+    "treebanks": [
+      "fr_alts",
+      "fr_fqb",
+      "fr_parisstories",
+      "fr_partut",
+      "fr_poitevindivital",
+      "fr_gsd",
+      "fr_pud",
+      "fr_rhapsodie",
+      "fr_sequoia"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "qfn",
+    "treebanks": [
+      "qfn_fame"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "gl",
+    "treebanks": [
+      "gl_pud",
+      "gl_treegal",
+      "gl_ctg"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ka",
+    "treebanks": [
+      "ka_glc",
+      "ka_gnc"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Kartvelian",
+    "genus": "Kartvelian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "de",
+    "treebanks": [
+      "de_lit",
+      "de_pud",
+      "de_gsd",
+      "de_hdt"
+    ],
+    "word_order": "No dominant order",
+    "case_category": "case_medium",
+    "case_wals_value": "4 cases",
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "aln",
+    "treebanks": [
+      "aln_gps"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "el",
+    "treebanks": [
+      "el_cretan",
+      "el_gdt",
+      "el_gud",
+      "el_lesbian",
+      "el_messinian"
+    ],
+    "word_order": "No dominant order",
+    "case_category": "case_medium",
+    "case_wals_value": "3 cases",
+    "family": "Indo-European",
+    "genus": "Greek",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "got",
+    "treebanks": [
+      "got_proiel"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "gub",
+    "treebanks": [
+      "gub_tudet"
+    ],
+    "word_order": "VSO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Tupian",
+    "genus": "Maweti-Guarani",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "gn",
+    "treebanks": [
+      "gn_oldtudet"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "gu",
+    "treebanks": [
+      "gu_gujtb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "gwi",
+    "treebanks": [
+      "gwi_tuecl"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Na-Dene",
+    "genus": "Athapaskan",
+    "macroarea": "North America"
+  },
+  {
+    "language_iso": "ht",
+    "treebanks": [
+      "ht_autogramm",
+      "ht_adolphe"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ha",
+    "treebanks": [
+      "ha_northernautogramm",
+      "ha_southernautogramm",
+      "ha_westernautogramm"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "he",
+    "treebanks": [
+      "he_htb",
+      "he_iahltknesset",
+      "he_iahltwiki"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Afro-Asiatic",
+    "genus": "Semitic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "azz",
+    "treebanks": [
+      "azz_itml"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Uto-Aztecan",
+    "genus": "Aztecan",
+    "macroarea": "North America"
+  },
+  {
+    "language_iso": "hi",
+    "treebanks": [
+      "hi_pud",
+      "hi_hdtb"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Indic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "hit",
+    "treebanks": [
+      "hit_hittb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "hu",
+    "treebanks": [
+      "hu_szeged"
+    ],
+    "word_order": "No dominant order",
+    "case_category": "case_rich",
+    "case_wals_value": "10 or more cases",
+    "family": "Uralic",
+    "genus": "Ugric",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "is",
+    "treebanks": [
+      "is_gc",
+      "is_modern",
+      "is_pud",
+      "is_icepahc"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "4 cases",
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "arh",
+    "treebanks": [
+      "arh_chibergis"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Chibchan",
+    "genus": "Arhuacic",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "id",
+    "treebanks": [
+      "id_csui",
+      "id_gsd",
+      "id_pud"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Austronesian",
+    "genus": "Malayo-Sumbawan",
+    "macroarea": "Papunesia"
+  },
+  {
+    "language_iso": "ga",
+    "treebanks": [
+      "ga_cadhan",
+      "ga_idt",
+      "ga_twittirish"
+    ],
+    "word_order": "VSO",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Indo-European",
+    "genus": "Celtic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "it",
+    "treebanks": [
+      "it_kiparlaforest",
+      "it_markit",
+      "it_isdt",
+      "it_old",
+      "it_parlamint",
+      "it_pud",
+      "it_partut",
+      "it_postwita",
+      "it_valico",
+      "it_twittiro",
+      "it_vit"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ja",
+    "treebanks": [
+      "ja_gsd",
+      "ja_pud",
+      "ja_pudluw",
+      "ja_gsdluw",
+      "ja_bccwjluw"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_rich",
+    "case_wals_value": "8-9 cases",
+    "family": "Japanese",
+    "genus": "Japanese",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "jv",
+    "treebanks": [
+      "jv_csui"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "urb",
+    "treebanks": [
+      "urb_tudet"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Tupian",
+    "genus": "Maweti-Guarani",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "xnr",
+    "treebanks": [
+      "xnr_kdtb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "arr",
+    "treebanks": [
+      "arr_tudet"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Tupian",
+    "genus": "Ramarama",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "krl",
+    "treebanks": [
+      "krl_kkpp"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Uralic",
+    "genus": "Finnic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "kk",
+    "treebanks": [
+      "kk_ktb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Altaic",
+    "genus": "Turkic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "kfm",
+    "treebanks": [
+      "kfm_aha"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "naq",
+    "treebanks": [
+      "naq_kdt"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Khoe-Kwadi",
+    "genus": "Khoe-Kwadi",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "quc",
+    "treebanks": [
+      "quc_iu"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Mayan",
+    "genus": "Mayan",
+    "macroarea": "North America"
+  },
+  {
+    "language_iso": "koi",
+    "treebanks": [
+      "koi_uh"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Uralic",
+    "genus": "Permic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "kpv",
+    "treebanks": [
+      "kpv_ikdp",
+      "kpv_lattice"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Uralic",
+    "genus": "Permic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ko",
+    "treebanks": [
+      "ko_gsd",
+      "ko_ksl",
+      "ko_littleprince",
+      "ko_kaist",
+      "ko_pud"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Korean",
+    "genus": "Korean",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ky",
+    "treebanks": [
+      "ky_ktmu",
+      "ky_tuecl"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ltg",
+    "treebanks": [
+      "ltg_cairo"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "la",
+    "treebanks": [
+      "la_circse",
+      "la_perseus",
+      "la_llct",
+      "la_ittb",
+      "la_udante",
+      "la_proiel"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "lv",
+    "treebanks": [
+      "lv_cairo",
+      "lv_lvtb"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "5 cases",
+    "family": "Indo-European",
+    "genus": "Baltic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "lij",
+    "treebanks": [
+      "lij_glt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "lt",
+    "treebanks": [
+      "lt_alksnis",
+      "lt_hse"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Indo-European",
+    "genus": "Baltic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "olo",
+    "treebanks": [
+      "olo_kkpp"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "lb",
+    "treebanks": [
+      "lb_luxbank"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "mk",
+    "treebanks": [
+      "mk_mtb"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "nds",
+    "treebanks": [
+      "nds_lsdc"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "jaa",
+    "treebanks": [
+      "jaa_jarawara"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Arauan",
+    "genus": "Arauan",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "mpu",
+    "treebanks": [
+      "mpu_tudet"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "qaf",
+    "treebanks": [
+      "qaf_arabizi"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ml",
+    "treebanks": [
+      "ml_ufal"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Dravidian",
+    "genus": "Dravidian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "mt",
+    "treebanks": [
+      "mt_mudt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Afro-Asiatic",
+    "genus": "Semitic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "gv",
+    "treebanks": [
+      "gv_cadhan"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Celtic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "mr",
+    "treebanks": [
+      "mr_ufal"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "5 cases",
+    "family": "Indo-European",
+    "genus": "Indic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "gun",
+    "treebanks": [
+      "gun_thomas",
+      "gun_dooley"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "frm",
+    "treebanks": [
+      "frm_altm",
+      "frm_profiterole"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "myu",
+    "treebanks": [
+      "myu_tudet"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Tupian",
+    "genus": "Munduruku",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "mdf",
+    "treebanks": [
+      "mdf_jr"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Uralic",
+    "genus": "Mordvin",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "nmf",
+    "treebanks": [
+      "nmf_suansu"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Sino-Tibetan",
+    "genus": "Tangkhul-Maring",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "nyq",
+    "treebanks": [
+      "nyq_aha"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "nap",
+    "treebanks": [
+      "nap_rb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "pcm",
+    "treebanks": [
+      "pcm_nsc"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "other",
+    "genus": "Creoles and Pidgins",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "yrk",
+    "treebanks": [
+      "yrk_tundra"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Uralic",
+    "genus": "Samoyedic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "yrl",
+    "treebanks": [
+      "yrl_complin"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "kmr",
+    "treebanks": [
+      "kmr_kurmanji"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Iranian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sme",
+    "treebanks": [
+      "sme_giella"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Uralic",
+    "genus": "Saami",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "gya",
+    "treebanks": [
+      "gya_autogramm"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Niger-Congo",
+    "genus": "Gbaya-Manza-Ngbaka",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "oc",
+    "treebanks": [
+      "oc_ttb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "or",
+    "treebanks": [
+      "or_odtb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "no",
+    "treebanks": [
+      "no_bokmaal",
+      "no_nynorsk"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "cu",
+    "treebanks": [
+      "cu_proiel"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "orv",
+    "treebanks": [
+      "orv_birchbark",
+      "orv_rnc",
+      "orv_ruthenian",
+      "orv_torot"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ang",
+    "treebanks": [
+      "ang_cairo"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "fro",
+    "treebanks": [
+      "fro_altm",
+      "fro_profiterole"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "sga",
+    "treebanks": [
+      "sga_dipsgg",
+      "sga_dipwbg"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "pro",
+    "treebanks": [
+      "pro_corag"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "otk",
+    "treebanks": [
+      "otk_clausal"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ota",
+    "treebanks": [
+      "ota_boun",
+      "ota_dudu"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ps",
+    "treebanks": [
+      "ps_sikaram"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "pad",
+    "treebanks": [
+      "pad_tuecl"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "3 cases",
+    "family": "Arauan",
+    "genus": "Arauan",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "pay",
+    "treebanks": [
+      "pay_chibergis"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Chibchan",
+    "genus": "Pech",
+    "macroarea": "North America"
+  },
+  {
+    "language_iso": "fa",
+    "treebanks": [
+      "fa_seraji",
+      "fa_perdt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "xpg",
+    "treebanks": [
+      "xpg_kul"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "pl",
+    "treebanks": [
+      "pl_mpdt",
+      "pl_lfg",
+      "pl_pud",
+      "pl_pdb"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "qpm",
+    "treebanks": [
+      "qpm_philotis"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "pt",
+    "treebanks": [
+      "pt_bosque",
+      "pt_dantestocks",
+      "pt_gsd",
+      "pt_petrogold",
+      "pt_porttinari",
+      "pt_pud"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ro",
+    "treebanks": [
+      "ro_art",
+      "ro_moldoro",
+      "ro_simonero",
+      "ro_rrt",
+      "ro_tuecl",
+      "ro_nonstandard"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ru",
+    "treebanks": [
+      "ru_gsd",
+      "ru_poetry",
+      "ru_pud",
+      "ru_syntagrus",
+      "ru_taiga"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sa",
+    "treebanks": [
+      "sa_ufal",
+      "sa_vedic"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "gd",
+    "treebanks": [
+      "gd_arcosg"
+    ],
+    "word_order": "VSO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Celtic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sr",
+    "treebanks": [
+      "sr_set"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "scn",
+    "treebanks": [
+      "scn_stb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "wuu",
+    "treebanks": [
+      "wuu_shud"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Sino-Tibetan",
+    "genus": "Chinese",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "si",
+    "treebanks": [
+      "si_stb"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "5 cases",
+    "family": "Indo-European",
+    "genus": "Indic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sd",
+    "treebanks": [
+      "sd_isra"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Indic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sms",
+    "treebanks": [
+      "sms_giellagas"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "sk",
+    "treebanks": [
+      "sk_snk"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sl",
+    "treebanks": [
+      "sl_sst",
+      "sl_ssj"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ajp",
+    "treebanks": [
+      "ajp_madar"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Afro-Asiatic",
+    "genus": "Semitic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sdh",
+    "treebanks": [
+      "sdh_garrusi"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "es",
+    "treebanks": [
+      "es_coser",
+      "es_pud",
+      "es_ancora",
+      "es_gsd"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Romance",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ssp",
+    "treebanks": [
+      "ssp_lse"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "other",
+    "genus": "Sign Languages",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sv",
+    "treebanks": [
+      "sv_lines",
+      "sv_old",
+      "sv_pud",
+      "sv_swell",
+      "sv_talbanken"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Indo-European",
+    "genus": "Germanic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "swl",
+    "treebanks": [
+      "swl_sslc"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "other",
+    "genus": "Sign Languages",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "tl",
+    "treebanks": [
+      "tl_trg",
+      "tl_ugnayan"
+    ],
+    "word_order": "VSO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Austronesian",
+    "genus": "Greater Central Philippine",
+    "macroarea": "Papunesia"
+  },
+  {
+    "language_iso": "tt",
+    "treebanks": [
+      "tt_nmctt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "eme",
+    "treebanks": [
+      "eme_tudet"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Tupian",
+    "genus": "Maweti-Guarani",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "ta",
+    "treebanks": [
+      "ta_ttb"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Dravidian",
+    "genus": "Dravidian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "te",
+    "treebanks": [
+      "te_mtg"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Dravidian",
+    "genus": "Dravidian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "th",
+    "treebanks": [
+      "th_pud",
+      "th_tud"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Tai-Kadai",
+    "genus": "Kam-Tai",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "tn",
+    "treebanks": [
+      "tn_popapolelo"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "tpn",
+    "treebanks": [
+      "tpn_tudet"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Tupian",
+    "genus": "Maweti-Guarani",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "tr",
+    "treebanks": [
+      "tr_atis",
+      "tr_framenet",
+      "tr_boun",
+      "tr_gb",
+      "tr_imst",
+      "tr_pud",
+      "tr_penn",
+      "tr_kenet",
+      "tr_tuecl",
+      "tr_tourism"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_medium",
+    "case_wals_value": "6-7 cases",
+    "family": "Altaic",
+    "genus": "Turkic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "qti",
+    "treebanks": [
+      "qti_butr"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "qtd",
+    "treebanks": [
+      "qtd_sagt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "uk",
+    "treebanks": [
+      "uk_iu",
+      "uk_parlamint"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "xum",
+    "treebanks": [
+      "xum_ikuvina"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "hsb",
+    "treebanks": [
+      "hsb_ufal"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Slavic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "uz",
+    "treebanks": [
+      "uz_tuecl",
+      "uz_ut",
+      "uz_uzudt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "ur",
+    "treebanks": [
+      "ur_udtb"
+    ],
+    "word_order": "SOV",
+    "case_category": "case_poor",
+    "case_wals_value": "2 cases",
+    "family": "Indo-European",
+    "genus": "Indic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "ug",
+    "treebanks": [
+      "ug_udt"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Altaic",
+    "genus": "Turkic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "vep",
+    "treebanks": [
+      "vep_vwt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Uralic",
+    "genus": "Finnic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "vi",
+    "treebanks": [
+      "vi_tuecl",
+      "vi_vtb"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Austro-Asiatic",
+    "genus": "Vietic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "cy",
+    "treebanks": [
+      "cy_ccg"
+    ],
+    "word_order": "VSO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Indo-European",
+    "genus": "Celtic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "nhi",
+    "treebanks": [
+      "nhi_itml"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "hyw",
+    "treebanks": [
+      "hyw_armtdp"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Indo-European",
+    "genus": "Armenian",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "xav",
+    "treebanks": [
+      "xav_xdt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Macro-Ge",
+    "genus": "Je Central",
+    "macroarea": "South America"
+  },
+  {
+    "language_iso": "wo",
+    "treebanks": [
+      "wo_wtb"
+    ],
+    "word_order": "SVO",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Niger-Congo",
+    "genus": "Wolof",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "sah",
+    "treebanks": [
+      "sah_yktdt"
+    ],
+    "word_order": "SOV",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Altaic",
+    "genus": "Turkic",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "sjo",
+    "treebanks": [
+      "sjo_xdt"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "yi",
+    "treebanks": [
+      "yi_yitb"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  },
+  {
+    "language_iso": "yo",
+    "treebanks": [
+      "yo_ytb"
+    ],
+    "word_order": "SVO",
+    "case_category": "case_poor",
+    "case_wals_value": "No morphological case-marking",
+    "family": "Niger-Congo",
+    "genus": "Defoid",
+    "macroarea": "Africa"
+  },
+  {
+    "language_iso": "ess",
+    "treebanks": [
+      "ess_sli"
+    ],
+    "word_order": "No dominant order",
+    "case_category": null,
+    "case_wals_value": null,
+    "family": "Eskimo-Aleut",
+    "genus": "Eskimo",
+    "macroarea": "Eurasia"
+  },
+  {
+    "language_iso": "say",
+    "treebanks": [
+      "say_autogramm"
+    ],
+    "word_order": null,
+    "case_category": null,
+    "case_wals_value": null,
+    "family": null,
+    "genus": null,
+    "macroarea": null
+  }
+]
